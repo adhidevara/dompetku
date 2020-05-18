@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CC950E</color>
+    <color name="colorPrimaryDark">#CC950E</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="item_tx_debit">#7EEE72</color>
+    <color name="item_tx_kredit">#EE7295</color>
+</resources>
